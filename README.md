@@ -11,3 +11,6 @@ si collega all'Access Point con SSID openplotter e manda dati SignalK
 
 PC con opencpn. Si collega all'Access Point openplotter.
 Legge dati SignalK (GPS, Wind, Depth, pitch, roll, heading, AIS)
+
+Raspberry ZeroW, SignalK --> Raspberry 3, SignalK --> PC opencpn
+IMU9255, GPS, Wind, Depth, AIS
